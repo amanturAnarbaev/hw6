@@ -1,7 +1,7 @@
 package com.company;
 
 public class Boss extends GameEntity {
-    // из-за того у меня переменная weaponOfBoss
+    
     private Weapon weaponOfBoss;
 
 
